@@ -20,13 +20,13 @@ This project is designed to automate testing of the login functionality for a we
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/selenium-login-test.git
+git clone https://github.com/vazgen-basencyan/test_task.git
 ```
 
 2. Navigate into the project directory:
 
 ```bash
-cd selenium-login-test
+cd /test_task
 ```
 
 3. Install the required Python packages:
